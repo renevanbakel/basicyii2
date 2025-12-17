@@ -1,1 +1,1 @@
-<h2>Hallo, <?= htmlspecialchars($name) ?>!</h2>
+<h1>Hallo <?= htmlspecialchars($name) ?>!</h1>
